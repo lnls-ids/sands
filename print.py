@@ -1,1 +1,2 @@
 print("Sands")
+#Sands Adaptation
